@@ -185,10 +185,9 @@
 ---
 
 ## 🐍 &nbsp;`contribution_snake`
-
 <div align="center">
 
-![snake](https://github.com/VivekReddyVicky24/VivekReddyVicky24/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/VivekReddyVicky24/VivekReddyVicky24/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
