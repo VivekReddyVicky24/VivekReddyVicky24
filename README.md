@@ -187,7 +187,7 @@
 ## 🐍 &nbsp;`contribution_snake`
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/VivekReddyVicky24/VivekReddyVicky24/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/VivekReddyVicky24/VivekReddyVicky24/output/ocean.gif" alt="Snake animation"/>
 
 </div>
 
