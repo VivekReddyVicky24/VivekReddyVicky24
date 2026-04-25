@@ -1,16 +1,221 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**VivekReddyVicky24/VivekReddyVicky24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:1a1a4e,70:2d1b69,100:0f3460&height=230&section=header&text=VIVEK%20REDDY&fontSize=58&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Full-Stack%20Engineer%20%2F%2F%20AI%20Builder%20%2F%2F%20Cyber%20Defender%20%2F%2F%20VNRVJIET%20%2727&descSize=15&descAlignY=64&descColor=93c5fd&stroke=3b82f6&strokeWidth=1.5"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=50&lines=Building+AI+that+guides+your+career+%F0%9F%A7%A0;Cybersecurity+vigilance+at+scale+%F0%9F%9B%A1%EF%B8%8F;Full-Stack+%7C+RAG+%7C+Python+%7C+React+%F0%9F%94%A5;Ship+fast.+Think+deep.+Build+bold.+%F0%9F%9A%80" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vivek%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-reddy-vangala-455a57353/)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-VivekReddyVicky24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VivekReddyVicky24)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekreddy.vicky24@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=VivekReddyVicky24&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:7c3aed&height=3"/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;`whoami`
+
+```bash
+➜  ~ cat vivek.json
+{
+  "name"          :  "Vivek Reddy",
+  "alias"         :  "VivekReddyVicky24",
+  "role"          :  "Full-Stack Dev + AI/ML Builder + Cyber Enthusiast",
+  "education"     :  "B.Tech @ VNRVJIET, Hyderabad (2023–2027)",
+  "superpower"    :  "Turns complex problems into shipped products 🚀",
+  "currently"     :  ["Smart Career Roadmap AI", "Cyber Vigilance System"],
+  "tech_love"     :  ["React", "Python", "AI/ML", "Cybersecurity", "Clean APIs"],
+  "fun_fact"      :  "I automate the boring stuff so I can build the cool stuff 😎"
+}
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:06b6d4&height=3"/>
+
+---
+
+## 🔭 &nbsp;`currently_building`
+
+<div align="center">
+
+| 🏷️ | Project | Description | Stack | Status |
+|:--:|---------|-------------|-------|:------:|
+| 🧠 | **[Smart Career Roadmap](https://github.com/VivekReddyVicky24/smart-career-roadmap)** | AI-powered personalized career roadmap generator with auth & progress tracking | `React` `Node.js` `AI/ML` | ![85%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-85%25-38bdf8?style=flat-square) |
+| 🛡️ | **[CVR Cyber Vigilance](https://github.com/VivekReddyVicky24/cvr-cyber-vigilance-response)** | Cyber threat detection & response system | `Python` `Security` | ![75%](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-75%25-a78bfa?style=flat-square) |
+| ✍️ | **[Blog App](https://github.com/VivekReddyVicky24/Blog-App)** | Full-stack blogging platform with rich content | `JavaScript` `MERN` | ![90%](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-90%25-34d399?style=flat-square) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:f97316&height=3"/>
+
+---
+
+## ⚡ &nbsp;`tech_stack`
+
+<div align="center">
+
+### 🧬 Languages
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,java,c&theme=dark&perline=8"/>
+
+### 🎨 Frontend
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,vite,tailwind&theme=dark&perline=8"/>
+
+### 🔧 Backend
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark&perline=8"/>
+
+### 🗄️ Databases & Cloud
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel,netlify&theme=dark&perline=8"/>
+
+### 🛡️ Security & Tools
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark&perline=8"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:10b981&height=3"/>
+
+---
+
+## 🚀 &nbsp;`featured_projects`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🧠 Smart Career Roadmap</h3>
+<div align="center">
+  <a href="https://github.com/VivekReddyVicky24/smart-career-roadmap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VivekReddyVicky24&repo=smart-career-roadmap&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=7c3aed&text_color=8b949e" alt="Smart Career Roadmap"/>
+  </a>
+  <br/><br/>
+  <p><em>"Your AI-powered career co-pilot"</em></p>
+  <p>Personalized roadmaps generated by AI based on your skills, goals, and experience. <strong>Authentication + real-time progress tracking</strong> built in.</p>
+  <br/>
+  <img src="https://img.shields.io/badge/-AI%2FML-3b82f6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</div>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🛡️ CVR Cyber Vigilance</h3>
+<div align="center">
+  <a href="https://github.com/VivekReddyVicky24/cvr-cyber-vigilance-response">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VivekReddyVicky24&repo=cvr-cyber-vigilance-response&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f97316&text_color=8b949e" alt="CVR Cyber Vigilance"/>
+  </a>
+  <br/><br/>
+  <p><em>"Detect. Defend. Respond."</em></p>
+  <p>Intelligent cyber threat monitoring and response system. Built to protect, detect anomalies, and respond with precision.</p>
+  <br/>
+  <img src="https://img.shields.io/badge/-Python-3572A5?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cybersecurity-ef4444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-ML-10b981?style=for-the-badge"/>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">✍️ Blog App</h3>
+<div align="center">
+  <a href="https://github.com/VivekReddyVicky24/Blog-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VivekReddyVicky24&repo=Blog-App&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=10b981&text_color=8b949e" alt="Blog App"/>
+  </a>
+  <br/><br/>
+  <p><em>"Write. Publish. Inspire."</em></p>
+  <p>Full-stack MERN blog platform with rich text editing, user auth, and a clean minimal design. Built for creators.</p>
+  <br/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</div>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🏆 KLH Project</h3>
+<div align="center">
+  <a href="https://github.com/VivekReddyVicky24/klh">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VivekReddyVicky24&repo=klh&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=ec4899&text_color=8b949e" alt="KLH"/>
+  </a>
+  <br/><br/>
+  <p><em>"Engineered with purpose"</em></p>
+  <p>A JavaScript project built as part of a technical challenge — showcasing clean architecture, problem-solving, and rapid development skills.</p>
+  <br/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Full%20Stack-7c3aed?style=for-the-badge"/>
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:7c3aed&height=3"/>
+
+---
+
+## 📊 &nbsp;`github_stats`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=VivekReddyVicky24&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=7c3aed&bg_color=0d1117&text_color=8b949e&include_all_commits=true&rank_icon=github"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekReddyVicky24&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&bg_color=0d1117&text_color=8b949e&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VivekReddyVicky24&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=f97316&currStreakLabel=38bdf8&sideLabels=8b949e&dates=8b949e&stroke=38bdf8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VivekReddyVicky24&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=7c3aed&point=f97316&area=true&area_color=38bdf8"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:f97316&height=3"/>
+
+---
+
+## 🐍 &nbsp;`contribution_snake`
+
+<div align="center">
+
+![snake](https://github.com/VivekReddyVicky24/VivekReddyVicky24/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 &nbsp;`connect_with_me`
+
+<div align="center">
+
+<p>
+  <a href="https://www.linkedin.com/in/vivek-reddy-vangala-455a57353/">
+    <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="mailto:vivekreddy.vicky24@gmail.com">
+    <img src="https://img.shields.io/badge/Drop%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://github.com/VivekReddyVicky24">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=2000&color=7c3aed&center=true&vCenter=true&width=750&lines=%22The+best+way+to+predict+the+future+is+to+build+it.%22;%E2%80%94+Vivek+Reddy+%7C+always+shipping+%F0%9F%9A%80" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,30:1a1a4e,60:2d1b69,100:3b82f6&height=120&section=footer&animation=twinkling"/>
+
+</div>
